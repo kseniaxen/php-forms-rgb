@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7c40b98b-9d95-4abe-ad53-3a134b5a176a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpServers">
+    <servers>
+      <server host="localhost" id="f26d64a7-3171-4eb3-b790-bb2d1b7d7d49" name="apache" />
+    </servers>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.2" />
+  <component name="ProjectId" id="1jW0ZLGvvwnhkb0EqFQ2Qc89cj2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/index.php" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="PHP Built-in Web Server.php-embedded-webserver">
+    <configuration name="php-embedded-webserver" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server" document_root="$PROJECT_DIR$" port="8000">
+      <method v="2" />
+    </configuration>
+    <configuration name="php-script" type="PhpLocalRunConfigurationType" factoryName="PHP Console" path="$PROJECT_DIR$/index.php">
+      <CommandLine>
+        <PhpTestInterpreterSettings>
+          <option name="interpreterName" value="PHP 7.2" />
+        </PhpTestInterpreterSettings>
+      </CommandLine>
+      <method v="2" />
+    </configuration>
+    <configuration name="php-apache" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" browser="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" server_name="apache">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="PHP Built-in Web Server.php-embedded-webserver" />
+      <item itemvalue="PHP Script.php-script" />
+      <item itemvalue="PHP Web Page.php-apache" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7c40b98b-9d95-4abe-ad53-3a134b5a176a" name="Default Changelist" comment="" />
+      <created>1603904594941</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603904594941</updated>
+      <workItem from="1603904595962" duration="7111000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="638" y="227" width="700" height="752" key="#PHP" timestamp="1603905511322">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="638" y="227" width="700" height="752" key="#PHP/67.27.1853.1053@67.27.1853.1053" timestamp="1603905511322" />
+    <state x="1028" y="156" width="824" height="684" key="#Servers" timestamp="1603905104706">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="1028" y="156" width="824" height="684" key="#Servers/67.27.1853.1053@67.27.1853.1053" timestamp="1603905104706" />
+    <state x="451" y="210" width="1084" height="786" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603905524090">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="451" y="210" width="1084" height="786" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1603905524090" />
+    <state x="776" y="329" width="424" height="484" key="FileChooserDialogImpl" timestamp="1603904787943">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="776" y="329" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1603904787943" />
+    <state width="1807" height="53" key="GridCell.Tab.0.bottom" timestamp="1603910928877">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="53" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1603910928877" />
+    <state width="1807" height="53" key="GridCell.Tab.0.center" timestamp="1603910928877">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="53" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1603910928877" />
+    <state width="1807" height="53" key="GridCell.Tab.0.left" timestamp="1603910928875">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="53" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1603910928875" />
+    <state width="1807" height="53" key="GridCell.Tab.0.right" timestamp="1603910928877">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="53" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1603910928877" />
+    <state x="656" y="257" width="672" height="678" key="search.everywhere.popup" timestamp="1603905770699">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="656" y="257" width="672" height="678" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1603905770699" />
+  </component>
+</project>
