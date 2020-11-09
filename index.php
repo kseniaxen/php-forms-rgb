@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en">
+<html lang="en" xmlns="http://www.w3.org/1999/html">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport"
@@ -26,9 +26,14 @@
             }
         }
         echo '<pre>';
-        var_dump($_SERVER);
+        //var_dump($_SERVER);
+        //var_dump($_POST);
         echo '</pre>';
-        $x = 'background-color: red'
+        $x = 'background-color: red';
+        $red = $_POST["red-color"];
+        $green = $_POST["green-color"];
+        $blue = $_POST["blue-color"];
+        $spanColor = 'background-color: rgb('. $red . ',' . $green . ','. $blue. '); color: #FFFFFF';
     ?>
     <form style="<?php echo $x ?>" method="post">
         <div>
@@ -69,6 +74,19 @@
             <input name="register" type="submit" value="submit">
         </div>
     </form>
+<br/>
+    <form method="post">
+        <label>Red</label>
+        <input name="red-color" type="text" pattern="\b(?:1\d{2}|2[0-4]\d|[1-9]?\d|25[0-5])\b">
+        <label>Green</label>
+        <input name="green-color" type="text" pattern="\b(?:1\d{2}|2[0-4]\d|[1-9]?\d|25[0-5])\b">
+        <label>Blue</label>
+        <input name="blue-color" type="text" pattern="\b(?:1\d{2}|2[0-4]\d|[1-9]?\d|25[0-5])\b">
+        <input name="accept" type="submit" value="Accept">
+    </form>
+    <span style="<?php echo $spanColor ?>">Result</span>
+
+
     <script>
         /* setTimeout(()=>{
             const formElements = document.forms[0].elements

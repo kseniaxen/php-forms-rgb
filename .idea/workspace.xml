@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c40b98b-9d95-4abe-ad53-3a134b5a176a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +31,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/index.php" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected="PHP Built-in Web Server.php-embedded-webserver">
@@ -38,11 +39,6 @@
       <method v="2" />
     </configuration>
     <configuration name="php-script" type="PhpLocalRunConfigurationType" factoryName="PHP Console" path="$PROJECT_DIR$/index.php">
-      <CommandLine>
-        <PhpTestInterpreterSettings>
-          <option name="interpreterName" value="PHP 7.2" />
-        </PhpTestInterpreterSettings>
-      </CommandLine>
       <method v="2" />
     </configuration>
     <configuration name="php-apache" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" browser="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" server_name="apache">
@@ -63,6 +59,11 @@
       <option name="presentableId" value="Default" />
       <updated>1603904594941</updated>
       <workItem from="1603904595962" duration="7111000" />
+      <workItem from="1604666612180" duration="1771000" />
+      <workItem from="1604679374285" duration="1615000" />
+      <workItem from="1604923941743" duration="110000" />
+      <workItem from="1604924936192" duration="2584000" />
+      <workItem from="1604937783164" duration="237000" />
     </task>
     <servers />
   </component>
@@ -70,38 +71,82 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="638" y="227" width="700" height="752" key="#PHP" timestamp="1603905511322">
-      <screen x="67" y="27" width="1853" height="1053" />
+    <state x="347" y="107" key="#CLI_Interpreters" timestamp="1604681911357">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state x="347" y="107" key="#CLI_Interpreters/0.0.1536.824@0.0.1536.824" timestamp="1604681911357" />
+    <state x="473" y="157" width="585" height="589" key="#PHP" timestamp="1604667326552">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="473" y="157" width="585" height="589" key="#PHP/0.0.1536.824@0.0.1536.824" timestamp="1604667326552" />
     <state x="638" y="227" width="700" height="752" key="#PHP/67.27.1853.1053@67.27.1853.1053" timestamp="1603905511322" />
-    <state x="1028" y="156" width="824" height="684" key="#Servers" timestamp="1603905104706">
-      <screen x="67" y="27" width="1853" height="1053" />
+    <state x="698" y="135" width="824" height="684" key="#Servers" timestamp="1604681487111">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state x="698" y="135" key="#Servers/0.0.1536.824@0.0.1536.824" timestamp="1604681487111" />
     <state x="1028" y="156" width="824" height="684" key="#Servers/67.27.1853.1053@67.27.1853.1053" timestamp="1603905104706" />
-    <state x="451" y="210" width="1084" height="786" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603905524090">
-      <screen x="67" y="27" width="1853" height="1053" />
+    <state x="315" y="15" width="1089" height="809" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604682107147">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state x="315" y="15" width="1089" height="809" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1604682107147" />
     <state x="451" y="210" width="1084" height="786" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1603905524090" />
-    <state x="776" y="329" width="424" height="484" key="FileChooserDialogImpl" timestamp="1603904787943">
-      <screen x="67" y="27" width="1853" height="1053" />
+    <state x="588" y="236" width="424" height="484" key="FileChooserDialogImpl" timestamp="1604681734172">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state x="588" y="236" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1604681734172" />
     <state x="776" y="329" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1603904787943" />
-    <state width="1807" height="53" key="GridCell.Tab.0.bottom" timestamp="1603910928877">
-      <screen x="67" y="27" width="1853" height="1053" />
+    <state width="1342" height="195" key="GridCell.Tab.0.bottom" timestamp="1604938022027">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state width="1342" height="195" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1604938022027" />
     <state width="1807" height="53" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1603910928877" />
-    <state width="1807" height="53" key="GridCell.Tab.0.center" timestamp="1603910928877">
-      <screen x="67" y="27" width="1853" height="1053" />
+    <state width="1342" height="195" key="GridCell.Tab.0.center" timestamp="1604938022027">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state width="1342" height="195" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1604938022027" />
     <state width="1807" height="53" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1603910928877" />
-    <state width="1807" height="53" key="GridCell.Tab.0.left" timestamp="1603910928875">
-      <screen x="67" y="27" width="1853" height="1053" />
+    <state width="1342" height="195" key="GridCell.Tab.0.left" timestamp="1604938022027">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state width="1342" height="195" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1604938022027" />
     <state width="1807" height="53" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1603910928875" />
-    <state width="1807" height="53" key="GridCell.Tab.0.right" timestamp="1603910928877">
-      <screen x="67" y="27" width="1853" height="1053" />
+    <state width="1342" height="195" key="GridCell.Tab.0.right" timestamp="1604938022027">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state width="1342" height="195" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1604938022027" />
     <state width="1807" height="53" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1603910928877" />
+    <state width="1342" height="242" key="GridCell.Tab.1.bottom" timestamp="1604668396024">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1342" height="242" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1604668396024" />
+    <state width="1342" height="242" key="GridCell.Tab.1.center" timestamp="1604668396024">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1342" height="242" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1604668396024" />
+    <state width="1342" height="242" key="GridCell.Tab.1.left" timestamp="1604668396024">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1342" height="242" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1604668396024" />
+    <state width="1342" height="242" key="GridCell.Tab.1.right" timestamp="1604668396024">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1342" height="242" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1604668396024" />
+    <state width="1342" height="242" key="GridCell.Tab.2.bottom" timestamp="1604668396025">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1342" height="242" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1604668396025" />
+    <state width="1342" height="242" key="GridCell.Tab.2.center" timestamp="1604668396025">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1342" height="242" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1604668396025" />
+    <state width="1342" height="242" key="GridCell.Tab.2.left" timestamp="1604668396024">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1342" height="242" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1604668396024" />
+    <state width="1342" height="242" key="GridCell.Tab.2.right" timestamp="1604668396025">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1342" height="242" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1604668396025" />
     <state x="656" y="257" width="672" height="678" key="search.everywhere.popup" timestamp="1603905770699">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
